@@ -1,0 +1,41 @@
+{
+  "title": "Rosario + Vampire",
+  "description": "Volume 1",
+  "artist": "Akihisa Ikeda",
+  "author": "Akihisa Ikeda",
+  "cover": "",
+  "chapters": {
+    "003": {
+      "title": "",
+      "last_updated": "1770930409",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7bnjbom75"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1770930415",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7k5gbq378"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1770930417",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7o5ko324p"
+      },
+      "volume": "01"
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1770930428",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7p5bow3yo"
+      },
+      "volume": "01"
+    }
+  }
+}
