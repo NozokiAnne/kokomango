@@ -1,0 +1,41 @@
+{
+  "title": "Rosario + Vampire - Colored",
+  "description": "The story revolves around Tsukune Aono, a boy who inadvertently enrolls in a boarding school for monsters. He quickly befriends Moka Akashiya, a vampire who soon développes an obsession with his blood, and later meets other monster girls who soon take a romantic liking to him.",
+  "artist": "Akihisa Ikeda",
+  "author": "Akihisa Ikeda",
+  "cover": "https://cdn.imgchest.com/files/5bf4c38fa515.webp",
+  "chapters": {
+    "003 - Going Clubbing": {
+      "title": "",
+      "last_updated": "1770930409",
+      "groups": {
+        "Nozoki Anne": "/proxy/api/imgchest/chapter/ne7bnjbom75"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Coexistence",
+      "last_updated": "1770930415",
+      "groups": {
+        "Nozoki Anne": "/proxy/api/imgchest/chapter/na7k5gbq378"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Kurumu of Black Dreams",
+      "last_updated": "1770930417",
+      "groups": {
+        "Nozoki Anne": "/proxy/api/imgchest/chapter/md7o5ko324p"
+      },
+      "volume": "01"
+    },
+    "001": {
+      "title": "The School Vampire",
+      "last_updated": "1770930428",
+      "groups": {
+        "Nozoki Anne": "/proxy/api/imgchest/chapter/dl7p5bow3yo"
+      },
+      "volume": "01"
+    }
+  }
+}
